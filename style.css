@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+}
+
+.item-1 {
+    background-color: rgb(7, 156, 131);
+    text-align: center;
+    padding: 50px 0;
+    color: white;
+}
+
+.item-2 {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0;
+}
+.box{
+    background-color: rgb(3, 65, 39);
+}
+.item-3{
+    width: 60%;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.item-3 div{
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin-left: 10px;
+    color: white;
+}
